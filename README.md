@@ -3,9 +3,14 @@
 This is a small golang service than can serve for you git-lfs large files.
 You just have to provide the configuration file properly and you're good to go.
 
+## DEMO
+
+https://user-images.githubusercontent.com/22576758/171308009-a99fb94a-b455-4966-9c5a-4de24dd5edb8.mp4
+
+
 ## How to install
 
-/!\ **NOTE**: always make sure to have a clean shared directory before running sglfs `rm ./shared/*`
+**/!\NOTE**: always make sure to have a clean shared directory before running sglfs `rm ./shared/*`
 
 - First you need to copy the configuratio example and set our parameters:
   ```bash
@@ -37,3 +42,5 @@ You can also use docker here:
 ```
 make docker-run
 ```
+
+A server should be running on port :3000 !
