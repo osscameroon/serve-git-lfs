@@ -1,0 +1,6 @@
+---
+
+storage:
+    - path: "audio-files"
+      url: "https://github.com/osscameroon/podcasts"
+      branch: "master"

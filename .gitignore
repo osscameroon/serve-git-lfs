@@ -1,0 +1,4 @@
+sglfs
+shared/*
+conf.yml
+serve-git-lfs
